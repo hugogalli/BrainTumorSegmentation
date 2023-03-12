@@ -16,4 +16,4 @@ O notebook possui várias seções, incluindo a importação e visualização do
 Se você deseja contribuir com este projeto, sinta-se à vontade para abrir uma Issue ou enviar um Pull Request.
 
 # Exemplo de resultado da pesquisa
-![]([https://github.com/hugogalli/BrainTumorSegmentation/result_ex.gif](https://github.com/hugogalli/BrainTumorSegmentation/blob/main/result_ex.gif))
+![]([https://github.com/hugogalli/BrainTumorSegmentation/result_ex.gif](https://github.com/hugogalli/BrainTumorSegmentation/blob/main/result_ex.gif)
