@@ -1,4 +1,5 @@
 # Detecção de Tumores Cerebrais usando Detectron2 - Hugo Galli
+CONTEUDO: https://colab.research.google.com/drive/1H_TR5lKN2Gzsd40aQXmNXz3AONOMS4se?usp=sharing
 Este repositório contém um notebook Jupyter (arquivo .ipynb) que implementa um modelo de detecção de tumores cerebrais utilizando o framework de deep learning Detectron2. O Detectron2 é uma biblioteca de código aberto desenvolvida pelo Facebook AI Research, que fornece uma base poderosa para treinar e implementar modelos de detecção de objetos baseados em deep learning.
 
 O modelo utilizado neste notebook é baseado na arquitetura Faster R-CNN com o ResNet-50 como backbone, que é uma das arquiteturas mais populares em visão computacional para detecção de objetos em tempo real. Essa arquitetura permite que o modelo seja treinado em um grande conjunto de dados e seja capaz de detectar tumores cerebrais em imagens de ressonância magnética (MRI) com alta precisão.
